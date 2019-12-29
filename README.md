@@ -57,8 +57,10 @@ Below the pipeline is applied to several images.
 <img src="./test_images/output_whiteCarLaneSwitch.jpg" width="600" />
 
 Furthermore, two videos has been created to check the algorythm in real time.
-<a href="./test_videos_output/solidWhiteRight">Solid White Right</a>
-<a href="./test_videos_output/solidYellowLeft">Solid Yellow Left</a>
+
+<a href="./test_videos_output/solidWhiteRight.mp4">Solid White Right</a>
+
+<a href="./test_videos_output/solidYellowLeft.mp4">Solid Yellow Left</a>
 
 ### 2. Potential shortcomings with this pipeline
 
