@@ -40,6 +40,7 @@ Below the pipeline is applied to several images.
 
 ### Solid white curve 
 <img src="./test_images/output_solidWhiteCurve.jpg" width="600" />
+
 ### Solid white Right 
 <img src="./test_images/output_solidWhiteRight.jpg" width="600" />
 
