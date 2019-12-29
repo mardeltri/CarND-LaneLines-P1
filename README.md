@@ -40,21 +40,26 @@ Below the pipeline is applied to several images.
 
 ### Solid white curve 
 ![SolidWhiteCurve][./test_images/output_solidWhiteCurve.jpg]
-
+<img src="./test_images/output_solidWhiteCurve.jpg" width="400" />
 ### Solid white Right 
 ![SolidWhiteRight][./test_images/output_solidWhiteRight.jpg]
+<img src="./test_images/output_solidWhiteRight.jpg" width="400" />
 
 ### Solid yellow curve 
 ![SolidYellowCurve][./test_images/output_solidYellowCurve.jpg]
+<img src="./test_images/output_solidYellowCurve.jpg" width="400" />
 
 ### Solid yellow curve 2
 ![aSolid Yellow Curve 2][./test_images/output_solidYellowCurve2.jpg]
+<img src="./test_images/output_solidYellowCurve2.jpg" width="400" />
 
 ### Solid yellow left 
 ![Solid Yellow Left][./test_images/output_solidYellowLeft.jpg]
+<img src="./test_images/output_solidYellowLeft.jpg" width="400" />
 
 ### Solid Car Lane Switch 
 ![White Car Lane Switch][./test_images/output_whiteCarLaneSwitch.jpg]
+<img src="./test_images/output_whiteCarLaneSwitch.jpg" width="400" />
 
 ### 2. Potential shortcomings with this pipeline
 
