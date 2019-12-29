@@ -39,22 +39,22 @@ The procedure carried out to compute the extrapolated lines is defined below:
 Below the pipeline is applied to several images.
 
 ### Solid white curve 
-![SolidWhiteCurve][test_images/output_solidWhiteCurve.jpg]
+![SolidWhiteCurve][./test_images/output_solidWhiteCurve.jpg]
 
 ### Solid white Right 
-![SolidWhiteRight][test_images/output_solidWhiteRight.jpg]
+![SolidWhiteRight][./test_images/output_solidWhiteRight.jpg]
 
 ### Solid yellow curve 
-![SolidYellowCurve][test_images/output_solidYellowCurve.jpg]
+![SolidYellowCurve][./test_images/output_solidYellowCurve.jpg]
 
 ### Solid yellow curve 2
-![aSolid Yellow Curve 2][test_images/output_solidYellowCurve2.jpg]
+![aSolid Yellow Curve 2][./test_images/output_solidYellowCurve2.jpg]
 
 ### Solid yellow left 
-![Solid Yellow Left][test_images/output_solidYellowLeft.jpg]
+![Solid Yellow Left][./test_images/output_solidYellowLeft.jpg]
 
 ### Solid Car Lane Switch 
-![White Car Lane Switch][test_images/output_whiteCarLaneSwitch.jpg]
+![White Car Lane Switch][./test_images/output_whiteCarLaneSwitch.jpg]
 
 ### 2. Potential shortcomings with this pipeline
 
