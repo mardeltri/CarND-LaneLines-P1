@@ -56,6 +56,10 @@ Below the pipeline is applied to several images.
 ### Solid Car Lane Switch 
 <img src="./test_images/output_whiteCarLaneSwitch.jpg" width="600" />
 
+Furthermore, two videos has been created to check the algorythm in real time.
+<a href="./test_videos_output/solidWhiteRight">Solid White Right</a>
+<a href="./test_videos_output/solidYellowLeft">Solid Yellow Left</a>
+
 ### 2. Potential shortcomings with this pipeline
 
 One potential shortcoming would be what would happen when lanes have a considerable curvature. In this situation, unnecessary data will be considered due to the definition of our region of interest.
